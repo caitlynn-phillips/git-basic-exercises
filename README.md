@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-"random readme changes"
+random readme changes"
 =======
 booya
->>>>>>> history
